@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://inakagawa.github.io/atom.xml" rel="self"/>
+  <link href="http://inakagawa.github.io/"/>
+  <updated>2014-10-29T16:25:24+09:00</updated>
+  <id>http://inakagawa.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Installed]]></title>
+    <link href="http://inakagawa.github.io/blog/2014/10/29/installed/"/>
+    <updated>2014-10-29T00:00:00+09:00</updated>
+    <id>http://inakagawa.github.io/blog/2014/10/29/installed</id>
+    <content type="html"><![CDATA[<p>octopress でブログ作成するテスト。</p>
+]]></content>
+  </entry>
+  
+</feed>
